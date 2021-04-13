@@ -7,6 +7,9 @@
     "react-images": "^0.5.16",
     "prop-types": "^15.5.8"
   },
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
