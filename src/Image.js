@@ -128,7 +128,7 @@ class Image extends Component {
         key="Select"
         index={this.props.index}
         color={"rgba(0, 0, 0, 1)"}
-        selectedColor={"#4285f4"}
+        selectedColor={"#F23"}
         hoverColor={"rgba(0, 0, 0, 1)"}
         isSelected={this.props.item.isSelected}
         isSelectable={this.props.isSelectable}
